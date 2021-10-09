@@ -120,7 +120,7 @@ class handler(BaseHTTPRequestHandler):
                 'code': successCode,
                 'msg': '',
                 'data': {
-                    'doi': '',
+                    'doi': "".join(html.xpath("//feed/entry/doi/text()")).strip(),
                     'pmid': '',
                     'arxiv_id': arxiv_id,
                     'origin_url': html.xpath("//feed/entry/id/text()")[0],
@@ -129,6 +129,7 @@ class handler(BaseHTTPRequestHandler):
                     'organization': [],
                     'magazine': ['arXiv', ],
                     'publisher': 'arXiv',
+                    'summary': "".join(html.xpath("//feed/entry/title/text()")).strip(),
                     'publication_year': datetime.strptime(html.xpath("//feed/entry/published/text()")[0],
                                                           "%Y-%m-%dT%H:%M:%SZ").year,
                     'category': list(map(lambda x: mappings.get(x, x).strip(), html.xpath("//feed/entry/category/@term"))),
