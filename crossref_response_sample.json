@@ -1,0 +1,771 @@
+{
+    "status":"ok",
+    "message-type":"work",
+    "message-version":"1.0.0",
+    "message":{
+        "indexed":{
+            "date-parts":[
+                [
+                    2020,
+                    2,
+                    7
+                ]
+            ],
+            "date-time":"2020-02-07T10:40:05Z",
+            "timestamp":1581072005707
+        },
+        "reference-count":45,
+        "publisher":"Springer Science and Business Media LLC",
+        "issue":"1",
+        "license":[
+            {
+                "URL":"http://www.springer.com/tdm",
+                "start":{
+                    "date-parts":[
+                        [
+                            2004,
+                            1,
+                            1
+                        ]
+                    ],
+                    "date-time":"2004-01-01T00:00:00Z",
+                    "timestamp":1072915200000
+                },
+                "delay-in-days":0,
+                "content-version":"tdm"
+            },
+            {
+                "URL":"http://www.springer.com/tdm",
+                "start":{
+                    "date-parts":[
+                        [
+                            2004,
+                            1,
+                            1
+                        ]
+                    ],
+                    "date-time":"2004-01-01T00:00:00Z",
+                    "timestamp":1072915200000
+                },
+                "delay-in-days":0,
+                "content-version":"unspecified"
+            },
+            {
+                "URL":"http://www.springer.com/tdm",
+                "start":{
+                    "date-parts":[
+                        [
+                            2004,
+                            1,
+                            1
+                        ]
+                    ],
+                    "date-time":"2004-01-01T00:00:00Z",
+                    "timestamp":1072915200000
+                },
+                "delay-in-days":0,
+                "content-version":"tdm"
+            }
+        ],
+        "content-domain":{
+            "domain":[
+                "link.springer.com"
+            ],
+            "crossmark-restriction":false
+        },
+        "short-container-title":[
+            "Int J Hematol"
+        ],
+        "published-print":{
+            "date-parts":[
+                [
+                    2004,
+                    1
+                ]
+            ]
+        },
+        "DOI":"10.1007/bf02983529",
+        "type":"journal-article",
+        "created":{
+            "date-parts":[
+                [
+                    2008,
+                    11,
+                    6
+                ]
+            ],
+            "date-time":"2008-11-06T10:32:26Z",
+            "timestamp":1225967546000
+        },
+        "page":"22-30",
+        "update-policy":"http://dx.doi.org/10.1007/springer_crossmark_policy",
+        "source":"Crossref",
+        "is-referenced-by-count":23,
+        "title":[
+            "Diamond-Blackfan Anemia in Japan: Clinical Outcomes of Prednisolone Therapy and Hematopoietic Stem Cell Transplantation"
+        ],
+        "prefix":"10.1007",
+        "volume":"79",
+        "author":[
+            {
+                "given":"Shouichi",
+                "family":"Ohga",
+                "sequence":"first",
+                "affiliation":[
+
+                ]
+            },
+            {
+                "name":"for the Aplastic Anemia Committee of the Japanese Society of Pediatric Hematology",
+                "sequence":"first",
+                "affiliation":[
+
+                ]
+            },
+            {
+                "given":"Hideo",
+                "family":"Mugishima",
+                "sequence":"additional",
+                "affiliation":[
+
+                ]
+            },
+            {
+                "given":"Akira",
+                "family":"Ohara",
+                "sequence":"additional",
+                "affiliation":[
+
+                ]
+            },
+            {
+                "given":"Seiji",
+                "family":"Kojima",
+                "sequence":"additional",
+                "affiliation":[
+
+                ]
+            },
+            {
+                "given":"Kohji",
+                "family":"Fujisawa",
+                "sequence":"additional",
+                "affiliation":[
+
+                ]
+            },
+            {
+                "given":"Keiko",
+                "family":"Yagi",
+                "sequence":"additional",
+                "affiliation":[
+
+                ]
+            },
+            {
+                "given":"Masamune",
+                "family":"Higashigawa",
+                "sequence":"additional",
+                "affiliation":[
+
+                ]
+            },
+            {
+                "given":"Ichiro",
+                "family":"Tsukimoto",
+                "sequence":"additional",
+                "affiliation":[
+
+                ]
+            }
+        ],
+        "member":"297",
+        "published-online":{
+            "date-parts":[
+                [
+                    2004,
+                    1,
+                    1
+                ]
+            ]
+        },
+        "reference":[
+            {
+                "key":"BF02983529_CR1",
+                "doi-asserted-by":"publisher",
+                "first-page":"391",
+                "DOI":"10.1053/beha.2000.0084",
+                "volume":"13",
+                "author":"MH Freedman",
+                "year":"2000",
+                "unstructured":"Freedman MH. Diamond-Blackfan anaemia.Baillieres Best Pract Res Clin Haematol. 2000;13:391–406.",
+                "journal-title":"Baillieres Best Pract Res Clin Haematol."
+            },
+            {
+                "key":"BF02983529_CR2",
+                "doi-asserted-by":"publisher",
+                "first-page":"85",
+                "DOI":"10.1097/00062752-200003000-00003",
+                "volume":"7",
+                "author":"TN Willig",
+                "year":"2000",
+                "unstructured":"Willig TN, Gazda H, Sieff CA. Diamond-Blackfan anemia.Curr Opin Hematol. 2000;7:85–94.",
+                "journal-title":"Curr Opin Hematol."
+            },
+            {
+                "key":"BF02983529_CR3",
+                "doi-asserted-by":"publisher",
+                "first-page":"10",
+                "DOI":"10.1097/00008480-200102000-00002",
+                "volume":"13",
+                "author":"Costa L Da",
+                "year":"2001",
+                "unstructured":"Da Costa L, Willig TN, Fixler J, Mohandas N, Tchernia G. Diamond-Blackfan anemia.Curr Opin Pediatr. 2001;13:10–15.",
+                "journal-title":"Curr Opin Pediatr."
+            },
+            {
+                "key":"BF02983529_CR4",
+                "first-page":"380",
+                "volume":"11",
+                "author":"DS Halperin",
+                "year":"1989",
+                "unstructured":"Halperin DS, Freedman MH. Diamond-Blackfan anemia: etiology, pathophysiology, and treatment.Am J Pediatr Hematol Oncol. 1989;11:380–394.",
+                "journal-title":"Am J Pediatr Hematol Oncol."
+            },
+            {
+                "key":"BF02983529_CR5",
+                "doi-asserted-by":"publisher",
+                "first-page":"1061",
+                "DOI":"10.1016/S0889-8588(05)70483-4",
+                "volume":"11",
+                "author":"OI Krijanovski",
+                "year":"1997",
+                "unstructured":"Krijanovski OI, Sieff CA. Diamond-Blackfan anemia.Hematol Oncol Clin North Am. 1997;11:1061–1077.",
+                "journal-title":"Hematol Oncol Clin North Am."
+            },
+            {
+                "key":"BF02983529_CR6",
+                "first-page":"7",
+                "volume":"7",
+                "author":"A Nomura",
+                "year":"2000",
+                "unstructured":"Nomura A, Ohga S, Asaka Y, et al.Pneumocystis carinii pneumonia in Diamond-Blackfan anemia: the necessity of chemoprophylaxis for young infant.Int J Pediatr Hematol Oncol. 2000;7:7–11.",
+                "journal-title":"Int J Pediatr Hematol Oncol."
+            },
+            {
+                "key":"BF02983529_CR7",
+                "doi-asserted-by":"publisher",
+                "first-page":"410",
+                "DOI":"10.1097/00043426-200206000-00018",
+                "volume":"24",
+                "author":"WW Huh",
+                "year":"2002",
+                "unstructured":"Huh WW, Gill J, Sheth S, Buchanan GR.Pneumocystis carinii pneumonia in patients with Diamond-Blackfan anemia receiving high- dose corticosteroids.J Pediatr Hematol Oncol. 2002;24:410–412.",
+                "journal-title":"J Pediatr Hematol Oncol."
+            },
+            {
+                "key":"BF02983529_CR8",
+                "doi-asserted-by":"publisher",
+                "first-page":"176",
+                "DOI":"10.1097/00043426-200003000-00020",
+                "volume":"22",
+                "author":"AJ Alessandri",
+                "year":"2000",
+                "unstructured":"Alessandri AJ, Rogers PC, Wadsworth LD, Davis JH. Diamond- Blackfan anemia and cyclosporine therapy revisited.J Pediatr Hematol Oncol. 2000;22:176–179.",
+                "journal-title":"J Pediatr Hematol Oncol."
+            },
+            {
+                "key":"BF02983529_CR9",
+                "doi-asserted-by":"publisher",
+                "first-page":"353",
+                "DOI":"10.1097/00043426-200108000-00006",
+                "volume":"23",
+                "author":"GR Buchanan",
+                "year":"2001",
+                "unstructured":"Buchanan GR. Oral megadose methylprednisolone therapy for refractory Diamond-Blackfan anemia: International Diamond- Blackfan Anemia Study Group.J Pediatr Hematol Oncol. 2001;23:353–356.",
+                "journal-title":"J Pediatr Hematol Oncol."
+            },
+            {
+                "key":"BF02983529_CR10",
+                "doi-asserted-by":"publisher",
+                "first-page":"e44",
+                "DOI":"10.1542/peds.110.4.e44",
+                "volume":"110",
+                "author":"A El-Beshlawy",
+                "year":"2002",
+                "unstructured":"El-Beshlawy A, Ibrahim IY, Rizk S, Eid K. Study of 22 Egyptian patients with Diamond-Blackfan anemia, corticosteroids, and cyclosporin therapy results.Pediatrics. 2002;110:e44.",
+                "journal-title":"Pediatrics."
+            },
+            {
+                "key":"BF02983529_CR11",
+                "doi-asserted-by":"publisher",
+                "first-page":"382",
+                "DOI":"10.1007/BF02982128",
+                "volume":"75",
+                "author":"H Kawasaki",
+                "year":"2002",
+                "unstructured":"Kawasaki H, Nakano T, Kohdera U, Kobayashi Y. The effect of thrombopoietin on erythroid progenitors in Diamond-Blackfan anemia.Int J Hematol. 2002;75:382–384.",
+                "journal-title":"Int J Hematol."
+            },
+            {
+                "key":"BF02983529_CR12",
+                "doi-asserted-by":"publisher",
+                "first-page":"517",
+                "DOI":"10.1002/1097-0142(19950801)76:3<517::AID-CNCR2820760324>3.0.CO;2-8",
+                "volume":"76",
+                "author":"PJ Dijken van",
+                "year":"1995",
+                "unstructured":"van Dijken PJ, Verwijs W. Diamond-Blackfan anemia and malignancy: a case report and a review of the literature.Cancer. 1995;76:517–520.",
+                "journal-title":"Cancer."
+            },
+            {
+                "key":"BF02983529_CR13",
+                "first-page":"55",
+                "volume":"15",
+                "author":"H Mugishima",
+                "year":"1995",
+                "unstructured":"Mugishima H, Gale RP, Rowlings PA,et al. Bone marrow transplantation for Diamond-Blackfan anemia.Bone Marrow Transplant. 1995;15:55–58.",
+                "journal-title":"Bone Marrow Transplant"
+            },
+            {
+                "key":"BF02983529_CR14",
+                "doi-asserted-by":"publisher",
+                "first-page":"965",
+                "DOI":"10.1038/sj.bmt.1701243",
+                "volume":"21",
+                "author":"BP Alter",
+                "year":"1998",
+                "unstructured":"Alter BP. Bone marrow transplant in Diamond-Blackfan anemia.Bone Marrow Transplant. 1998;21:965–966.",
+                "journal-title":"Bone Marrow Transplant."
+            },
+            {
+                "key":"BF02983529_CR15",
+                "doi-asserted-by":"publisher",
+                "first-page":"167",
+                "DOI":"10.1046/j.1365-2141.2000.01796.x",
+                "volume":"108",
+                "author":"N Giri",
+                "year":"2000",
+                "unstructured":"Giri N, Kang E, Tisdale JF,et al. Clinical and laboratory evidence for a trilineage haematopoietic defect in patients with refractory Diamond-Blackfan anaemia.Br J Haematol. 2000;108:167–175.",
+                "journal-title":"Br J Haematol."
+            },
+            {
+                "key":"BF02983529_CR16",
+                "doi-asserted-by":"publisher",
+                "first-page":"169",
+                "DOI":"10.1038/5951",
+                "volume":"21",
+                "author":"N Draptchinskaia",
+                "year":"1999",
+                "unstructured":"Draptchinskaia N, Gustavsson P, Andersson B, et al. The gene encoding ribosomal protein S19 is mutated in Diamond-Blackfan anaemia.Nat Genet. 1999;21:169–175.",
+                "journal-title":"Nat Genet."
+            },
+            {
+                "key":"BF02983529_CR17",
+                "first-page":"4294",
+                "volume":"94",
+                "author":"TN Willig",
+                "year":"1999",
+                "unstructured":"Willig TN, Draptchinskaia N, Dianzani I, et al. Mutations in ribosomal protein S19 gene and Diamond Blackfan anemia: wide variations in phenotypic expression.Blood. 1999;94:4294–4306.",
+                "journal-title":"Blood."
+            },
+            {
+                "key":"BF02983529_CR18",
+                "doi-asserted-by":"publisher",
+                "first-page":"2724",
+                "DOI":"10.1182/blood.V100.8.2724",
+                "volume":"100",
+                "author":"I Hamagichi",
+                "year":"2002",
+                "unstructured":"Hamagichi I, Ooka A, Brun A, Richter J, Dahl N, Karisson S. Gene transfer improves erythroid development in ribosomal protein S19-deficient Diamond-Blackfan anemia.Blood. 2002;100:2724–2731.",
+                "journal-title":"Blood."
+            },
+            {
+                "key":"BF02983529_CR19",
+                "doi-asserted-by":"publisher",
+                "first-page":"2145",
+                "DOI":"10.1182/blood.V97.7.2145",
+                "volume":"97",
+                "author":"H Gazda",
+                "year":"2001",
+                "unstructured":"Gazda H, Lipton JM, Willig TN, et al. Evidence for linkage of familial Diamond-Blackfan anemia to chromosome 8p23.3-p22 and for non-19q non-8p disease.Blood. 2001;97:2145–2150.",
+                "journal-title":"Blood."
+            },
+            {
+                "key":"BF02983529_CR20",
+                "doi-asserted-by":"publisher",
+                "first-page":"209",
+                "DOI":"10.1038/sj.bmt.1702138",
+                "volume":"25",
+                "author":"S Ohga",
+                "year":"2000",
+                "unstructured":"Ohga S, Kanaya Y, Maki H, et al. Epstein-Barr virus-associated lymphoproliferative disease after a cord blood transplant for Diamond-Blackfan anemia.Bone Marrow Transplant. 2000;25:209–212.",
+                "journal-title":"Bone Marrow Transplant."
+            },
+            {
+                "key":"BF02983529_CR21",
+                "first-page":"121",
+                "volume":"2",
+                "author":"BP Alter",
+                "year":"1980",
+                "unstructured":"Alter BP. Childhood red cell aplasia.Am J Pediatr Hematol Oncol. 1980;2:121–139.",
+                "journal-title":"Am J Pediatr Hematol Oncol."
+            },
+            {
+                "key":"BF02983529_CR22",
+                "doi-asserted-by":"publisher",
+                "first-page":"645",
+                "DOI":"10.1046/j.1365-2141.1996.d01-1839.x",
+                "volume":"94",
+                "author":"SE Ball",
+                "year":"1996",
+                "unstructured":"Ball SE, McGuckin CP, Jenkins G, Gordon-Smith EC. Diamond- Blackfan anaemia in the U.K.: analysis of 80 cases from a 20-year birth cohort.Br J Haematol. 1996;94:645–653.",
+                "journal-title":"Br J Haematol."
+            },
+            {
+                "key":"BF02983529_CR23",
+                "doi-asserted-by":"publisher",
+                "first-page":"77",
+                "DOI":"10.1097/00005792-199603000-00004",
+                "volume":"75",
+                "author":"AJ Janov",
+                "year":"1996",
+                "unstructured":"Janov AJ, Leong T, Nathan DG, Guinan EC. Diamond-Blackfan anemia: natural history and sequelae of treatment.Medicine (Baltimore). 1996;75:77–78.",
+                "journal-title":"Medicine (Baltimore)"
+            },
+            {
+                "key":"BF02983529_CR24",
+                "doi-asserted-by":"publisher",
+                "first-page":"417",
+                "DOI":"10.1006/bcmd.2000.0324",
+                "volume":"26",
+                "author":"U Ramenghi",
+                "year":"2000",
+                "unstructured":"Ramenghi U, Campagnoli MF, Garelli E, et al. Diamond-Blackfan anemia: report of seven further mutations in the RPS19 gene and evidence of mutation heterogeneity in the Italian population.Blood Cells Mol Dis. 2000;26:417–422.",
+                "journal-title":"Blood Cells Mol Dis."
+            },
+            {
+                "key":"BF02983529_CR25",
+                "doi-asserted-by":"publisher",
+                "first-page":"553",
+                "DOI":"10.1203/00006450-199911000-00011",
+                "volume":"46",
+                "author":"TN Willig",
+                "year":"1999",
+                "unstructured":"Willig TN, Niemeyer CM, Leblanc T, et al. Identification of new prognosis factors from the clinical and epidemiologic analysis of a registry of 229 Diamond-Blackfan anemia patients: DBA group of Societe d’Hematologie et d’Immunologie Pediatrique (SHIP), Gesellshaft fur Padiatrische Onkologie und Hamatologie (GPOH), and the European Society for Pediatric Hematology and Immunology (ESPHI).Pediatr Res. 1999;46:553–561.",
+                "journal-title":"Pediatr Res."
+            },
+            {
+                "key":"BF02983529_CR26",
+                "doi-asserted-by":"publisher",
+                "first-page":"345",
+                "DOI":"10.2165/00128072-200002050-00002",
+                "volume":"2",
+                "author":"I Dianzani",
+                "year":"2000",
+                "unstructured":"Dianzani I, Garelli E, Ramenghi U. Diamond-Blackfan anaemia: an overview.Paediatr Drugs. 2000;2:345–355.",
+                "journal-title":"Paediatr Drugs."
+            },
+            {
+                "key":"BF02983529_CR27",
+                "doi-asserted-by":"publisher",
+                "first-page":"377",
+                "DOI":"10.1097/00043426-200108000-00015",
+                "volume":"23",
+                "author":"A Vlachos",
+                "year":"2001",
+                "unstructured":"Vlachos A, Klein GW, Lipton JM. The Diamond Blackfan Anemia Registry: tool for investigating the epidemiology and biology of Diamond-Blackfan anemia.J Pediatr Hematol Oncol. 2001;23:377–382.",
+                "journal-title":"J Pediatr Hematol Oncol."
+            },
+            {
+                "key":"BF02983529_CR28",
+                "first-page":"203",
+                "volume":"59",
+                "author":"D Bresters",
+                "year":"1991",
+                "unstructured":"Bresters D, Bruin MCA, van Dijken PJ. Congenitale, hypoplastische anemie in Nederland 1963-1989.Tijdschr Kindergeneeskd. 1991;59:203–210.",
+                "journal-title":"Tijdschr Kindergeneeskd"
+            },
+            {
+                "key":"BF02983529_CR29",
+                "doi-asserted-by":"publisher",
+                "first-page":"841",
+                "DOI":"10.1046/j.1365-2141.1999.01267.x",
+                "volume":"104",
+                "author":"U Ramenghi",
+                "year":"1999",
+                "unstructured":"Ramenghi U, Garelli E, Valtolina S, et al. Diamond-Blackfan anaemia in the Italian population.Br J Haematol. 1999;104:841–848.",
+                "journal-title":"Br J Haematol."
+            },
+            {
+                "key":"BF02983529_CR30",
+                "doi-asserted-by":"publisher",
+                "first-page":"230",
+                "DOI":"10.1111/j.1399-0004.1986.tb00600.x",
+                "volume":"30",
+                "author":"Y Imaizumi",
+                "year":"1986",
+                "unstructured":"Imaizumi Y. A recent survey of consanguineous marriages in Japan.Clin Genet. 1986;30:230–233.",
+                "journal-title":"Clin Genet."
+            },
+            {
+                "key":"BF02983529_CR31",
+                "first-page":"38",
+                "volume":"78",
+                "author":"M Bejaoui",
+                "year":"1993",
+                "unstructured":"Bejaoui M, Fitouri Z, Sfar MT, Lakhoua R. Failure of immunosuppressive therapy and high-dose intravenous immunoglobulins in four transfusion-dependent, steroid-unresponsive Blackfan-Diamond anemia patients.Haematologica. 1993;78:38–39.",
+                "journal-title":"Haematologica."
+            },
+            {
+                "key":"BF02983529_CR32",
+                "doi-asserted-by":"publisher",
+                "first-page":"654",
+                "DOI":"10.1016/S0022-3476(95)70134-6",
+                "volume":"127",
+                "author":"JC Bernini",
+                "year":"1995",
+                "unstructured":"Bernini JC, Carrillo JM, Buchanan GR. High-dose intravenous methylprednisolone therapy for patients with Diamond-Blackfan anemia refractory to conventional doses of prednisone.J Pediatr. 1995;127:654–659.",
+                "journal-title":"J Pediatr."
+            },
+            {
+                "key":"BF02983529_CR33",
+                "doi-asserted-by":"publisher",
+                "first-page":"381",
+                "DOI":"10.1038/sj.bmt.1702784",
+                "volume":"27",
+                "author":"A Vlachos",
+                "year":"2001",
+                "unstructured":"Vlachos A, Federman N, Reyes-Haley C, Abramson J, Lipton JM. Hematopoietic stem cell transplantation for Diamond Blackfan anemia: a report from the Diamond Blackfan Anemia Registry.Bone Marrow Transplant. 2001;27:381–386.",
+                "journal-title":"Bone Marrow Transplant."
+            },
+            {
+                "key":"BF02983529_CR34",
+                "doi-asserted-by":"publisher",
+                "first-page":"83",
+                "DOI":"10.1038/sj.bmt.1700607",
+                "volume":"19",
+                "author":"M Bonno",
+                "year":"1997",
+                "unstructured":"Bonno M, Azuma E, Nakano T, et al. Successful hematopoietic reconstitution by transplantation of umbilical cord blood cells in a transfusion-dependent child with Diamond-Blackfan anemia.Bone Marrow Transplant. 1997;19:83–85.",
+                "journal-title":"Bone Marrow Transplant."
+            },
+            {
+                "key":"BF02983529_CR35",
+                "doi-asserted-by":"publisher",
+                "first-page":"507",
+                "DOI":"10.1038/sj.bmt.1700675",
+                "volume":"19",
+                "author":"K Vettenranta",
+                "year":"1997",
+                "unstructured":"Vettenranta K, Saarinen UM. Cord blood stem cell transplantation for Diamond-Blackfan anemia.Bone Marrow Transplant. 1997;19:507–508.",
+                "journal-title":"Bone Marrow Transplant."
+            },
+            {
+                "key":"BF02983529_CR36",
+                "doi-asserted-by":"publisher",
+                "first-page":"395",
+                "DOI":"10.1053/bbmt.2001.v7.pm11529490",
+                "volume":"7",
+                "author":"JN Barker",
+                "year":"2001",
+                "unstructured":"Barker JN, Martin PL, Coad JE, et al. Low incidence of Epstein- Barr virus-associated posttransplantation lymphoproliferative disorders in 272 unrelated-donor umbilical cord blood transplant recipients.Biol Blood Marrow Transplant. 2001;7:395–399.",
+                "journal-title":"Biol Blood Marrow Transplant."
+            },
+            {
+                "key":"BF02983529_CR37",
+                "doi-asserted-by":"publisher",
+                "first-page":"9",
+                "DOI":"10.1016/S0301-472X(98)00068-X",
+                "volume":"27",
+                "author":"MA Santucci",
+                "year":"1999",
+                "unstructured":"Santucci MA, Bagnara GP, Strippoli P, et al. Long-term bone marrow cultures in Diamond-Blackfan anemia reveal a defect of both granulomacrophage and erythroid progenitors.Exp Hematol. 1999;27:9–18.",
+                "journal-title":"Exp Hematol."
+            },
+            {
+                "key":"BF02983529_CR38",
+                "doi-asserted-by":"publisher",
+                "first-page":"803",
+                "DOI":"10.1038/sj.bmt.1701982",
+                "volume":"24",
+                "author":"RF Wynn",
+                "year":"1999",
+                "unstructured":"Wynn RF, Grainger JD, Carr TF, Eden OB, Stevens RF, Will AM. Failure of allogeneic bone marrow transplantation to correct Diamond-Blackfan anaemia despite haemopoietic stem cell engraftment.Bone Marrow Transplant. 1999;24:803–805.",
+                "journal-title":"Bone Marrow Transplant."
+            },
+            {
+                "key":"BF02983529_CR39",
+                "doi-asserted-by":"publisher",
+                "first-page":"39",
+                "DOI":"10.1097/00043426-200101000-00009",
+                "volume":"23",
+                "author":"JM Lipton",
+                "year":"2001",
+                "unstructured":"Lipton JM, Federman N, Khabbaze Y, et al. Osteogenic sarcoma associated with Diamond-Blackfan anemia: a report from the Diamond-Blackfan Anemia Registry.J Pediatr Hematol Oncol. 2001;23:39–44.",
+                "journal-title":"J Pediatr Hematol Oncol."
+            },
+            {
+                "key":"BF02983529_CR40",
+                "doi-asserted-by":"publisher",
+                "first-page":"1961",
+                "DOI":"10.1002/(SICI)1097-0142(19960501)77:9<1961::AID-CNCR35>3.0.CO;2-W",
+                "volume":"77",
+                "author":"R Haupt",
+                "year":"1996",
+                "unstructured":"Haupt R, Dufour C, Dallorso S, Mori PG. Diamond-Blackfan anemia and malignancy: a case report and a review of the literature.Cancer. 1996;77:1961–1962.",
+                "journal-title":"Cancer."
+            },
+            {
+                "key":"BF02983529_CR41",
+                "doi-asserted-by":"publisher",
+                "first-page":"579",
+                "DOI":"10.1182/blood.V97.2.579",
+                "volume":"97",
+                "author":"R Cmejla",
+                "year":"2001",
+                "unstructured":"Cmejla R, Blafkova J, Stopka T, Jelinek J, Petrtylova K, Pospisilova D. Ribosomal proteins S3a, S13, S16, and S24 are not mutated in patients with Diamond-Blackfan anemia.Blood. 2001;97:579–580.",
+                "journal-title":"Blood."
+            },
+            {
+                "key":"BF02983529_CR42",
+                "doi-asserted-by":"publisher",
+                "first-page":"223",
+                "DOI":"10.1006/geno.2000.6470",
+                "volume":"72",
+                "author":"T Uechi",
+                "year":"2001",
+                "unstructured":"Uechi T, Tanaka T, Kenmochi N. A complete map of the human ribosomal protein genes: assignment of 80 genes to the cytogenetic map and implications for human disorders.Genomics. 2001; 72:223–230.",
+                "journal-title":"Genomics."
+            },
+            {
+                "key":"BF02983529_CR43",
+                "first-page":"ELT30",
+                "volume":"87",
+                "author":"J Cmejlova",
+                "year":"2002",
+                "unstructured":"Cmejlova J, Pospisilova D, Cmejla R. Transcription factor GATA-4 is not involved in Diamond-Blackfan anaemia.Haematologica. 2002;87:ELT30.",
+                "journal-title":"Haematologica."
+            },
+            {
+                "key":"BF02983529_CR44",
+                "doi-asserted-by":"publisher",
+                "first-page":"321",
+                "DOI":"10.1046/j.1365-2141.2000.02289.x",
+                "volume":"111",
+                "author":"S Kojima",
+                "year":"2000",
+                "unstructured":"Kojima S, Horibe K, Inaba J, et al. Long-term outcome of acquired aplastic anaemia in children: comparison between immunosuppressive therapy and bone marrow transplantation.Br J Haematol. 2000;111:321–328.",
+                "journal-title":"Br J Haematol."
+            },
+            {
+                "key":"BF02983529_CR45",
+                "doi-asserted-by":"publisher",
+                "first-page":"386",
+                "DOI":"10.1182/blood.V87.1.386.386",
+                "volume":"87",
+                "author":"HJ Deeg",
+                "year":"1996",
+                "unstructured":"Deeg HJ, Socie G, Schoch G, et al. Malignancies after marrow transplantation for aplastic anemia and Fanconi anemia: a joint Seattle and Paris analysis of results in 700 patients.Blood. 1996;87:386–392.",
+                "journal-title":"Blood."
+            }
+        ],
+        "container-title":[
+            "International Journal of Hematology"
+        ],
+        "original-title":[
+
+        ],
+        "language":"en",
+        "link":[
+            {
+                "URL":"http://link.springer.com/article/10.1007/BF02983529/fulltext.html",
+                "content-type":"text/html",
+                "content-version":"vor",
+                "intended-application":"text-mining"
+            },
+            {
+                "URL":"http://link.springer.com/content/pdf/10.1007/BF02983529.pdf",
+                "content-type":"application/pdf",
+                "content-version":"vor",
+                "intended-application":"text-mining"
+            },
+            {
+                "URL":"http://link.springer.com/content/pdf/10.1007/BF02983529",
+                "content-type":"unspecified",
+                "content-version":"vor",
+                "intended-application":"similarity-checking"
+            },
+            {
+                "URL":"http://link.springer.com/content/pdf/10.1007/BF02983529.pdf",
+                "content-type":"application/pdf",
+                "content-version":"vor",
+                "intended-application":"similarity-checking"
+            }
+        ],
+        "deposited":{
+            "date-parts":[
+                [
+                    2020,
+                    2,
+                    7
+                ]
+            ],
+            "date-time":"2020-02-07T10:05:22Z",
+            "timestamp":1581069922000
+        },
+        "score":1,
+        "subtitle":[
+
+        ],
+        "short-title":[
+
+        ],
+        "issued":{
+            "date-parts":[
+                [
+                    2004,
+                    1
+                ]
+            ]
+        },
+        "references-count":45,
+        "journal-issue":{
+            "published-print":{
+                "date-parts":[
+                    [
+                        2004,
+                        1
+                    ]
+                ]
+            },
+            "issue":"1"
+        },
+        "alternative-id":[
+            "BF02983529"
+        ],
+        "URL":"http://dx.doi.org/10.1007/bf02983529",
+        "relation":{
+            "cites":[
+
+            ]
+        },
+        "ISSN":[
+            "0925-5710",
+            "1865-3774"
+        ],
+        "issn-type":[
+            {
+                "value":"0925-5710",
+                "type":"print"
+            },
+            {
+                "value":"1865-3774",
+                "type":"electronic"
+            }
+        ],
+        "subject":[
+            "Hematology"
+        ]
+    }
+}
